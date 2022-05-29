@@ -27,7 +27,10 @@ class Main{
         gol.ligarMotor();
         gol.imprimeEstadoMotor();
 
-        gol.desligarMotor();
-        gol.imprimeEstadoMotor();
+        //gol.desligarMotor();
+        //gol.imprimeEstadoMotor();
+
+        gol.acelerar();
+        gol.acelerar();
     }
 }

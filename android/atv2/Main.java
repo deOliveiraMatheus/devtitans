@@ -1,8 +1,8 @@
 class Main{
     public static void main(String[] args){
 
-        Motor dir = new Motor("EMBD", 50);
-        Motor esq = new Motor("EMBE", 50);
+        Motor dir = new MotorTurbinado("EMBD", 50);
+        Motor esq = new MotorTurbinado("EMBE", 50);
         Aviao gol = new Aviao("gol", "monomotor", esq, dir);
 
         Passageiro pass1 = new Passageiro("matheus","oliveira" , "032.526.602-61");

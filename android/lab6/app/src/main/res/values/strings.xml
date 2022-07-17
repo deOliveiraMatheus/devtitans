@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LembreteMatheus</string>
+    <string name="tituloinicio">Lembretes</string>
+    <string name="usuario">Usuario</string>
+    <string name="entrar">Entrar</string>
+    <string name="lembrete">Escreva Aqui seu lembrete</string>
+    <string name="listalembretes">Escreva Aqui seu lembrete</string>
+    <string name="button">Salvar</string>
+    <string name="checkbox">Apagar?</string>
+    <string name="textview">Usuario</string>
+</resources>

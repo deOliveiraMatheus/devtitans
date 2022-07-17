@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contaCliqueMatheus</string>
+    <string name="minha_conta">Minha conta</string>
+    <string name="valor_acumulado">Valor Acumulado</string>
+</resources>
